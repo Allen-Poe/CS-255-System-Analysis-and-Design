@@ -20,4 +20,4 @@ I used the interview transcript to identify what customers and employees needed 
 
 ## My Approach to Software Design
 
-I start by understanding the problem and breaking it into smaller tasks. For future projects, I would review the requirements with the client, sketch the main processes, and check that the diagrams match all those requirements. I would also walk through any unsuccessful situations that may lead to complications later on in the devlopment cycle.
+I start by understanding the problem and breaking it into smaller tasks. For future projects, I would review the requirements with the client, sketch the main processes, and check that the diagrams match all those requirements. I would also walk through any unsuccessful situations that may lead to complications later on in the development cycle.
